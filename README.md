@@ -1,1 +1,2 @@
 # TextModel-Classifier
+Statistical text model in Python that analyzes and classifies text samples based on various linguistic features. Builds models using word frequencies, word lengths, stems, and sentence lengths. Includes methods for saving/loading models, computing similarity scores using Naive Bayes, a generative learning algorithm. Allows users to compare texts (authorship attribution, style analysis) and includes a reflection on the results and potential improvements. Designed for exploring text analysis and machine learning concepts.
